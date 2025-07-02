@@ -1,0 +1,5 @@
+displayName = NiGiMod
+author = JiomLan、NiGi
+version = 0.2.9.5
+hideCode = true
+hideResources = true

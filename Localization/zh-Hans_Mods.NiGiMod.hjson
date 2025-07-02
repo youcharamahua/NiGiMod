@@ -1,0 +1,76 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	GiNi: {
+		DisplayName: 玮毅之错乱
+		Tooltip: 玮毅NiGi玮毅NiGi玮毅NiGi玮毅NiGi玮毅NiGi玮毅NiGi玮毅NiGi玮毅NiGi
+	}
+
+	GreatGiNi: {
+		DisplayName: 玮毅之勋
+		Tooltip:
+			'''
+			[c/00ff00:玮][c/02ff05:大][c/05ff0a:的][c/08ff0f:玮][c/0aff15:毅][c/0dff1a:之][c/10ff1f:主][c/12ff25:赐][c/15ff2a:福][c/18ff2f:的][c/1aff35:神][c/1dff3a:力][c/20ff3f:勋][c/22ff45:章]
+			[c/30ff5f:提][c/32ff64:供][c/35ff6a:基][c/37ff6f:础][c/3aff74:的][c/3dff7a:5][c/40ff7f:点][c/42ff84:防][c/45ff8a:御]
+			[c/52ffa4:【][c/55ffa9:N][c/58ffaf:i][c/5affb4:G][c/5dffb9:i][c/60ffbf:的][c/62ffc4:守][c/65ffc9:护][c/68ffcf:】][c/6affd4:玩][c/6dffd9:家][c/6fffdf:的][c/72ffe4:生][c/75ffe9:命][c/78ffef:值][c/7afff4:越][c/7dfff9:高][c/80ffff:，][c/82f9fc:则][c/85f4f9:获][c/87eff7:得][c/8ae9f4:更][c/8de4f1:多][c/8fdfef:的][c/92d9ec:防][c/95d4e9:御][c/97cfe7:力]
+			[c/a5b4d9:【][c/a7afd7:N][c/aaaad4:i][c/aca4d2:G][c/af9fcf:i][c/b29acc:的][c/b494ca:意][c/b78fc7:志][c/ba8ac4:】][c/bc84c2:玩][c/bf7fbf:家][c/c27abc:全][c/c474ba:伤][c/c76fb7:害][c/ca6ab4:增][c/cc64b2:加][c/cf5faf:1][c/d25aac:0][c/d454aa:%]
+			[c/e13a9d:【][c/e4359a:N][c/e72f97:i][c/e92a95:G][c/ec2592:i][c/ef1f8f:的][c/f11a8d:庇][c/f4158a:护][c/f70f87:】][c/f90a85:提][c/fc0582:供][c/ff0080:9][c/fc0082:%][c/f90085:的][c/f70087:伤][c/f4008a:害][c/f1008d:豁][c/ef008f:免][c/ec0092:，][c/e90095:玩][c/e70097:家][c/e4009a:不][c/e1009d:会][c/df009f:受][c/dc00a2:到][c/d900a5:摔][c/d700a7:落][c/d400aa:伤][c/d200ac:害]
+			[c/c400ba:【][c/c200bc:N][c/bf00bf:i][c/bc00c2:G][c/ba00c4:i][c/b700c7:的][c/b400ca:祝][c/b200cc:福][c/af00cf:】][c/ac00d2:提][c/aa00d4:升][c/a700d7:玩][c/a500d9:家][c/a200dc:的][c/9f00df:生][c/9d00e1:命][c/9a00e4:恢][c/9700e7:复][c/9500e9:能][c/9200ec:力][c/8f00ef:与][c/8d00f1:速][c/8a00f4:度][c/8700f7:及][c/8500f9:加][c/8200fc:速][c/8000fe:度]
+			'''
+	}
+
+	NiGiSoul: {
+		DisplayName: 玮毅破损之魂
+		Tooltip: 玮毅之神被光明与黑暗破碎之时以伟大神力腐化的传奇能量
+	}
+
+	GreatGiNi2: {
+		DisplayName: 混元·玮毅之勋
+		Tooltip:
+			'''
+			[c/800000:完][c/800013:整][c/800027:的][c/80003a:玮][c/80004e:毅][c/800062:之][c/800075:力][c/800089:神][c/80009c:降][c/8000b0:于][c/8000c4:你][c/8000d7:！]
+			[c/800000:【][c/80000d:玮][c/80001a:毅][c/800028:神][c/800035:力][c/800043:】][c/800050:在][c/80005d:玮][c/80006b:毅][c/800078:之][c/800086:勋][c/800093:的][c/8000a1:基][c/8000ae:础][c/8000bb:上][c/8000c9:全][c/8000d6:属][c/8000e4:性][c/8000f1:提][c/8000ff:高]
+			[c/ff8000:【][c/ff7906:玮][c/ff720d:毅][c/ff6b14:神][c/ff651a:韵][c/ff5e21:】][c/ff5728:所][c/ff502f:有][c/ff4a35:玮][c/ff433c:毅][c/ff3c43:之][c/ff354a:力][c/ff2f50:的][c/ff2857:伤][c/ff215e:害][c/ff1a65:增][c/ff146b:加][c/ff0d72:2][c/ff0679:5][c/ff0080:%]
+			[c/ff8000:【][c/ff7808:玮][c/ff7010:毅][c/ff6818:神][c/ff6020:光][c/ff5828:】][c/ff5030:你][c/ff4838:被][c/ff4040:闪][c/ff3848:耀][c/ff3050:的][c/ff2858:玮][c/ff2060:毅][c/ff1868:神][c/ff1070:光][c/ff0878:护][c/ff0080:佑]
+			[c/ff8000:【][c/ff7906:玮][c/ff720d:毅][c/ff6b14:神][c/ff651a:阵][c/ff5e21:】][c/ff5728:不][c/ff502f:灭][c/ff4a35:的][c/ff433c:法][c/ff3c43:阵][c/ff354a:为][c/ff2f50:你][c/ff2857:扫][c/ff215e:荡][c/ff1a65:一][c/ff146b:切][c/ff0d72:敌][c/ff0679:人]
+			'''
+	}
+
+	ShadySky: {
+		DisplayName: 影于空·壹式
+		Tooltip:
+			'''
+			暗影之神钟爱的武器
+			但它似乎并不完整……
+			'''
+	}
+
+	SlashCaeruleo: {
+		// DisplayName: Slash Caeruleo
+		// Tooltip: ""
+	}
+
+	NiGiSkyTileItem: {
+		DisplayName: 空影裁决之冢
+		Tooltip:
+			'''
+			寻神者仿照暗影之神统御影界所用神剑发明的剑冢
+			可以承载永恒的暗夜神力
+			'''
+	}
+}
+
+DamageClasses.NiGiDamageClass.DisplayName: 玮毅之力伤害
+
+Projectiles: {
+	// NiGiMainFz.DisplayName: Ni Gi Main Fz
+	// ShadeSkyProj.DisplayName: Shade Sky Proj
+	// ShadySkySwordProj.DisplayName: Shady Sky Sword Proj
+	// SlashCaeruleoProj.DisplayName: Slash Caeruleo Proj
+	// ShadySkySwordDownProj.DisplayName: Shady Sky Sword Down Proj
+}
+
+Prefixes: {
+	NiGiprefix1.DisplayName: 玮毅神佑
+	NiGiprefix2.DisplayName: 玮毅神怒
+}

@@ -1,0 +1,53 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	GiNi: {
+		DisplayName: Gi Ni
+		Tooltip: Gi NiGi NiGi NiGi NiGi NiGi NiGi NiGi NiGi NiGi NiGi NiGi NiGi Ni
+	}
+
+	GreatGiNi: {
+		DisplayName: GreatGiNi
+		Tooltip: GreatGiNi
+	}
+
+	NiGiSoul: {
+		DisplayName: Ni Gi Soul
+		Tooltip: ""
+	}
+
+	GreatGiNi2: {
+		DisplayName: Great Gi Ni2
+		Tooltip: ""
+	}
+
+	ShadySky: {
+		DisplayName: Shady Sky
+		Tooltip: ""
+	}
+
+	SlashCaeruleo: {
+		DisplayName: Slash Caeruleo
+		Tooltip: ""
+	}
+
+	NiGiSkyTileItem: {
+		DisplayName: Ni Gi Sky Tile Item
+		Tooltip: ""
+	}
+}
+
+DamageClasses.NiGiDamageClass.DisplayName: Ni Gi Damage Class
+
+Projectiles: {
+	NiGiMainFz.DisplayName: Ni Gi Main Fz
+	ShadeSkyProj.DisplayName: Shade Sky Proj
+	ShadySkySwordProj.DisplayName: Shady Sky Sword Proj
+	SlashCaeruleoProj.DisplayName: Slash Caeruleo Proj
+	ShadySkySwordDownProj.DisplayName: Shady Sky Sword Down Proj
+}
+
+Prefixes: {
+	NiGiprefix1.DisplayName: Ni Giprefix1
+	NiGiprefix2.DisplayName: Ni Giprefix2
+}
