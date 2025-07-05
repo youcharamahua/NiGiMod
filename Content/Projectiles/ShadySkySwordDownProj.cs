@@ -49,7 +49,7 @@ namespace NiGiMod.Content.Projectiles
                     Projectile.Center,
                     DustID.Electric,
                     Vector2.Zero,
-                    150,
+                    155,
                     Color.Cyan,
                     1f
                 );
