@@ -35,6 +35,11 @@ Items: {
 		DisplayName: Ni Gi Sky Tile Item
 		Tooltip: ""
 	}
+
+	BioShyStone: {
+		DisplayName: Bio Shy Stone
+		Tooltip: ""
+	}
 }
 
 DamageClasses.NiGiDamageClass.DisplayName: Ni Gi Damage Class

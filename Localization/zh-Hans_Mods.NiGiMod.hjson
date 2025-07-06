@@ -58,6 +58,15 @@ Items: {
 			可以承载永恒的暗夜神力
 			'''
 	}
+
+	BioShyStone: {
+		DisplayName:熔寒魂石
+		Tooltip: 
+			'''
+			本不应存在于世界上的悖谬之物
+			但是在强大存在的意志下从扭曲的世界被流放于此……
+			'''
+	}
 }
 
 DamageClasses.NiGiDamageClass.DisplayName: 玮毅之力伤害
