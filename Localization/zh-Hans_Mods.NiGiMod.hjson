@@ -46,8 +46,8 @@ Items: {
 	}
 
 	SlashCaeruleo: {
-		// DisplayName: Slash Caeruleo
-		// Tooltip: ""
+		DisplayName: Slash Caeruleo
+		Tooltip: ""
 	}
 
 	NiGiSkyTileItem: {
