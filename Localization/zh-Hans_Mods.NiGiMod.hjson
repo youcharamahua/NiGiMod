@@ -60,11 +60,31 @@ Items: {
 	}
 
 	BioShyStone: {
-		DisplayName:熔寒魂石
-		Tooltip: 
+		DisplayName: 熔寒魂石
+		Tooltip:
 			'''
 			本不应存在于世界上的悖谬之物
 			但是在强大存在的意志下从扭曲的世界被流放于此……
+			'''
+	}
+
+	DeathParadoxIngot: {
+		DisplayName: 死亡的熔寒魂锭
+		Tooltip: 
+			'''
+			本不应存在于世界上的悖谬之物
+			以悖谬世界的技艺锻炼而成
+			但真正的力量受到了世界的排斥
+			'''
+	}
+
+	ParadoxIngot: {
+		DisplayName: 悖谬熔寒魂锭
+		Tooltip: 
+			'''
+			本不应存在于世界上的悖谬之物
+			以悖谬世界的技艺锻炼而成
+			改变现实的神力让它重焕光彩
 			'''
 	}
 }

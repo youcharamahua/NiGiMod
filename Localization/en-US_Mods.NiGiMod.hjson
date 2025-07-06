@@ -40,6 +40,16 @@ Items: {
 		DisplayName: Bio Shy Stone
 		Tooltip: ""
 	}
+
+	DeathParadoxIngot: {
+		DisplayName: Death Paradox Ingot
+		Tooltip: ""
+	}
+
+	ParadoxIngot: {
+		DisplayName: Paradox Ingot
+		Tooltip: ""
+	}
 }
 
 DamageClasses.NiGiDamageClass.DisplayName: Ni Gi Damage Class
