@@ -89,8 +89,12 @@ Items: {
 	}
 
 	ParadoxSword: {
-		// DisplayName: Paradox Sword
-		// Tooltip: ""
+		DisplayName: 悖谬熔寒魔剑
+		Tooltip: 
+			'''
+			以扭曲的姿态被锻造而成
+			非常扭曲、十分强大
+			'''
 	}
 }
 
