@@ -70,7 +70,7 @@ Items: {
 
 	DeathParadoxIngot: {
 		DisplayName: 死亡的熔寒魂锭
-		Tooltip: 
+		Tooltip:
 			'''
 			本不应存在于世界上的悖谬之物
 			以悖谬世界的技艺锻炼而成
@@ -80,12 +80,17 @@ Items: {
 
 	ParadoxIngot: {
 		DisplayName: 悖谬熔寒魂锭
-		Tooltip: 
+		Tooltip:
 			'''
 			本不应存在于世界上的悖谬之物
 			以悖谬世界的技艺锻炼而成
 			改变现实的神力让它重焕光彩
 			'''
+	}
+
+	ParadoxSword: {
+		// DisplayName: Paradox Sword
+		// Tooltip: ""
 	}
 }
 

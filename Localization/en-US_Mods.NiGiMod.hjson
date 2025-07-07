@@ -50,6 +50,11 @@ Items: {
 		DisplayName: Paradox Ingot
 		Tooltip: ""
 	}
+
+	ParadoxSword: {
+		DisplayName: Paradox Sword
+		Tooltip: ""
+	}
 }
 
 DamageClasses.NiGiDamageClass.DisplayName: Ni Gi Damage Class
